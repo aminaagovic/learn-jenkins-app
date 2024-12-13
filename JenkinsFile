@@ -50,7 +50,6 @@ pipeline {
                     node-modules/.bin/netlify --version
                 '''
             }
-        }
     }
 
     post {
